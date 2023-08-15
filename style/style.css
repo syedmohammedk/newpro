@@ -1,0 +1,155 @@
+
+*{
+    margin:0px;
+    padding:0px;
+  }
+  .cont1 ul li a{
+    text-decoration:none;
+    color:white;
+  }
+  .cont1 ul li {
+    display: inline-block;
+    margin: 0 10px;
+    font-size:60px;
+    color:white;
+  }
+  .cont1 ul{
+    margin:0px;
+    padding:0px;
+    margin-left:-10px;
+  }
+  .cont1 p{
+    font-size:30px;
+    color:white;
+    font-style:bold;
+    font-weight:500;
+  }
+  .margin{
+    border-left:3px solid #f38fc0;
+    padding-left:10px;
+    
+  }
+  li{
+    font-size:30px;
+  }
+  .cont1 h3{
+    font-size:40px;
+    font-style:bold;
+    color:#fff;
+  }
+  .cont1 h1{
+    font-size:70px;
+    font-style:bold;
+    color:#f38fc0;
+  }
+  .cont1 p span{
+    color:#f38fc0;
+    font-size:30px;
+  }
+  .cont1 button{
+    font-size:20px;
+    font-style:bold;
+    font-weight:500;
+    padding:15px  25px ;
+    transform: translateX(1);
+    transition: all 1.0s ease;
+    background:#fff;
+    color:#000;
+  }
+  .cont1 button:hover{
+  background:#dbdad8;
+  color:#130025;
+  transform: translateX(1em);
+  }
+  
+  .cont2 h1{
+    font-size:50px;
+    font-style:bold;
+    color:#fff;
+    margin-left:-25px;
+    font-family:Sans-serif;
+  }
+  .cont2 h2{
+    font-size:40px;
+    font-style:bold;
+    color:#fff;
+  }
+  .cont2 h3{
+    font-size:30px;
+    font-weight:300;
+    color:#fff;
+  }
+  .cont2 h4{
+    font-size:30px;
+    color:#fff;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  .cont4 h1{
+    font-size:60px;
+    font-style:bold;
+    color:#fff;
+    font-family:Tahoma (sans-serif);
+  }
+  .cont4 ul li {
+    font-size:30px;
+    font-style:bold;
+    color:#130025;
+    font-family:Tahoma (sans-serif);
+    font-weight:500;
+    line-height:90px;
+  }
+  .cont4 ul li span{
+    font-weight:700;
+    color:#130025;
+  }
+  .cont5 h1{
+    font-size:60px;
+    font-style:bold;
+    color:#fff;
+    font-family:Tahoma (sans-serif);
+  }
+  .cont5 textarea::placeholder {
+    color:#fff;
+    font-size:20px;
+    font-style:bold;
+    color:#fff;
+    font-family:Tahoma (sans-serif);
+  }
+  .cont5 input::placeholder {
+    color:#fff;
+    font-size:20px;
+    font-style:bold;
+    color:#fff;
+    font-family:Tahoma (sans-serif);
+  }
+  input[type=text] ,input[type=email]{
+    transition: ease-in-out, width .35s ease-in-out;
+    background-color:#392152;
+    height:100px;
+    color:white;
+  }
+  textarea{
+    transition: ease-in-out, width .35s ease-in-out;
+    background-color:#392152;
+    color:white;
+  }
+  .cont5 button{
+    font-size:20px;
+    font-style:bold;
+    font-weight:500;
+    padding:15px  25px ;
+    transform: translateX(1);
+    transition: all 1.0s ease;
+    background:#fff;
+    color:#000;
+  }
+  .cont5 button:hover{
+  background:#dbdad8;
+  color:#130025;
+  transform: translateY(1em);
+  }
+  
+  footer{
+    min-height:100px;
+  }
+  
